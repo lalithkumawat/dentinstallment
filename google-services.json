@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1026270735526",
+    "firebase_url": "https://dentinstallment.firebaseio.com",
+    "project_id": "dentinstallment",
+    "storage_bucket": "dentinstallment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026270735526:android:17317001a0446e01fdd867",
+        "android_client_info": {
+          "package_name": "com.dentinstallment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026270735526-9c116o1cmglphdi9en9lfgihp8o6cfaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjbtLHF0zOqnmGy5NsGavPdPQsw0A2coI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026270735526-9c116o1cmglphdi9en9lfgihp8o6cfaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
